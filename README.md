@@ -1,2 +1,5 @@
-# my-first-project
-My first project on git hub 
+# My First Project
+
+Hello! This is my first project on GitHub.
+
+I am learning how GitHub works and building my first projects.
